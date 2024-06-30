@@ -2,7 +2,7 @@
 
 Welcome to the **Form Validation** repository! This project demonstrates basic form validation techniques using HTML, CSS, and JavaScript, providing real-time feedback for user registration fields.
 
-![Form Validation Screenshot](img/screenshot.png)
+![Form Validation Screenshot](formValidation.png)
 
 ## 🔗 Live Demo
 
